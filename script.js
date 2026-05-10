@@ -1,4 +1,1 @@
-// script.js
-function sayHi() {
-  alert("Hi!");
-}
+console.log("Space Kitty Robotics website loaded!");
