@@ -1,0 +1,12 @@
+/* style.css */
+body {
+  font-family: Arial, sans-serif;
+  background: #111;
+  color: white;
+  padding: 40px;
+}
+
+button {
+  padding: 10px 16px;
+  cursor: pointer;
+}
